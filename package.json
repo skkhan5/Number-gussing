@@ -1,0 +1,19 @@
+{
+  "name": "number-gussing",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "a number gussing game where computer will generate a random number between 1 to 100 and user need to guess that number.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samad Khan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
